@@ -1,0 +1,16 @@
+www
+admin
+test
+api
+blog
+login
+dashboard
+support
+help
+contact
+public
+private
+secure
+backup
+turkiye
+edition
